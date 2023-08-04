@@ -12,8 +12,6 @@
   <img background-color="#F7DF1E" height="50" src="https://github.com/eexxiist/eexxiist/assets/93676349/50c09819-d3b4-4258-a8d6-1a294504934e">
 </div>
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eexxiist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eexxiist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
