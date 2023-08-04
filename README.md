@@ -7,6 +7,6 @@
 </div>
 
 <div align="center">
-  <img height="32" src="https://github.com/eexxiist/eexxiist/assets/93676349/b89c09b4-7da0-4aa0-bf0d-29bc0297738e">
+  <img height="32" color="#E34F26" src="https://github.com/eexxiist/eexxiist/assets/93676349/b89c09b4-7da0-4aa0-bf0d-29bc0297738e">
 
 </div>
