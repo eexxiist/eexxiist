@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://https://t.me/eexxiist.ru/" target="_blank">Dilya</a> 
+<h1 align="center">Привет! Меня зовут <a href="https://https://t.me/eexxiist.ru/" target="_blank">Dilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я веб-разработчик из Москвы 🇷🇺</h3>
 
