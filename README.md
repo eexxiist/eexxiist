@@ -7,6 +7,6 @@
 </div>
 
 <div align="center">
-  ![html5](https://github.com/eexxiist/eexxiist/assets/93676349/b89c09b4-7da0-4aa0-bf0d-29bc0297738e)
+  <img src="https://github.com/eexxiist/eexxiist/assets/93676349/b89c09b4-7da0-4aa0-bf0d-29bc0297738e">
 
 </div>
