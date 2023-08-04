@@ -7,6 +7,12 @@
 </div>
 
 <div align="center">
+
+![png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon 2](https://github.com/eexxiist/eexxiist/assets/93676349/f1f3f270-645d-4c9f-b28a-c033e71ceeea)
+
+
+
+  
   <img height="50" src="https://github.com/eexxiist/eexxiist/assets/93676349/b89c09b4-7da0-4aa0-bf0d-29bc0297738e">
   <img height="50" src="https://github.com/eexxiist/eexxiist/assets/93676349/fdcb535e-425b-42d9-8935-56a6bcb9f0f7">
   <img background-color="#F7DF1E" height="50" src="https://github.com/eexxiist/eexxiist/assets/93676349/50c09819-d3b4-4258-a8d6-1a294504934e">
