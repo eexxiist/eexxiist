@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img height="32" src="https://github.com/eexxiist/eexxiist/assets/93676349/f1f3f270-645d-4c9f-b28a-c033e71ceeea">
+<img height="45" src="https://github.com/eexxiist/eexxiist/assets/93676349/f1f3f270-645d-4c9f-b28a-c033e71ceeea">
 <img src="https://github.com/eexxiist/eexxiist/assets/93676349/4382b4c4-eb3d-4b0f-8582-e84430d9468c">
 <img src="https://github.com/eexxiist/eexxiist/assets/93676349/c7de98e1-8ded-4363-9915-caecefacdd4e">
 <img src="https://github.com/eexxiist/eexxiist/assets/93676349/ceb55a36-7827-4f64-942a-3334846056a5">
