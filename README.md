@@ -13,6 +13,9 @@
   <img height="45" src="https://github.com/eexxiist/eexxiist/assets/93676349/f1f3f270-645d-4c9f-b28a-c033e71ceeea">
   <img height="50" src="https://github.com/eexxiist/eexxiist/assets/93676349/ceb55a36-7827-4f64-942a-3334846056a5">
 </div>
+<div>
+  <br>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eexxiist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
