@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут <a href="https://https://t.me/eexxiist.ru/" target="_blank">Диля</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я веб-разработчик из Москвы 🇷🇺</h3>
+<h3 align="center">Frontent-developer React 🇷🇺</h3>
 
 <div>
   <br><br/>
