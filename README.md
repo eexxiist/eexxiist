@@ -1,27 +1,70 @@
-<h1 align="center">Привет! Меня зовут <a href="https://https://t.me/eexxiist.ru/" target="_blank">Диля</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontent-developer React 🇷🇺</h3>
+<h1 align="center">
+Привет! Меня зовут Диля 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-<div>
-  <br><br/>
-</div>
+<h3 align="center">
+Frontend Developer | React
+</h3>
 
-<div>
-  <br><br/>
-</div>
+---
+
+### 👩‍💻 О себе
+
+Frontend-разработчик с опытом разработки SPA на **React**.  
+Работаю с **REST API, асинхронными запросами и компонентной архитектурой**.
+
+Разрабатывала **e-commerce интерфейсы, админ-панели и MVP-проекты**.  
+Интересуюсь развитием в продуктовой разработке и ростом до **Middle Frontend Developer**.
+
+---
+
+### ⚙️ Tech Stack
 
 <div align="center">
-  <img height="45" src="https://github.com/eexxiist/eexxiist/assets/93676349/c7de98e1-8ded-4363-9915-caecefacdd4e">
-  <img height="45" src="https://github.com/eexxiist/eexxiist/assets/93676349/4382b4c4-eb3d-4b0f-8582-e84430d9468c">
-  <img height="45" src="https://github.com/eexxiist/eexxiist/assets/93676349/1ff396aa-3249-4249-a34f-9eb8cf51b50c">
-  <img height="45" src="https://github.com/eexxiist/eexxiist/assets/93676349/f1f3f270-645d-4c9f-b28a-c033e71ceeea">
-  <img height="50" src="https://github.com/eexxiist/eexxiist/assets/93676349/ceb55a36-7827-4f64-942a-3334846056a5">
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/>
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
 </div>
-<div>
-  <br><br/>
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eexxiist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![codewars](https://www.codewars.com/users/eexxiist/badges/large)](https://www.codewars.com/users/eexxiist)
+### 📊 GitHub статистика
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eexxiist&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eexxiist&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🧠 Codewars
+
+<p align="center">
+<img src="https://www.codewars.com/users/eexxiist/badges/large"/>
+</p>
+
+---
+
+### 📫 Контакты
+
+Telegram: https://t.me/eexxiist  
+GitHub: https://github.com/eexxiist
+
+---
+
+### 🧩 Немного обо мне
+
+🏃 Участвую в забегах и занимаюсь спортом  
+🏂 Люблю сноуборд  
+🌮 Всегда поддержу поход за стритфудом или в бар после работы
